@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Research Computing Days"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: researchcomputing@boisestate.edu
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).

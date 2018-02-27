@@ -291,11 +291,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   Carpentry.  Users have the option of using these instead of installing
   the software below on their personal computers.  Depending on which
   section(s) you attend, you'll use one of these servers:
+ </b>
   <ul>
    <li><a href="https://codelab.boisestate.edu">codelab.boisestate.edu</a></li>
    <li><a href="https://jupyter.boisestate.edu">jupyter.boisestate.edu</a></li>
    <li><a href="https://datascience.boisestate.edu">datascience.boisestate.edu</a></li>
- </b>
+  </ul>
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors

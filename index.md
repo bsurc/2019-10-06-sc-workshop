@@ -12,7 +12,7 @@ startdate: 2018-03-15      # machine-readable start date for the workshop in YYY
 enddate: 2018-03-16        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Eric Jankowski", "Vicken Hillis", "Eric Hayden", "Dylan Mikesell", "Mike Henry", "Richard Elliott", "Mathew Jones"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Amber Sherman", "Lejo Flores", "Kyle Shannon", "Tyler Phillips", "Marwan Albahar", "	Dhanush Kumar Ratakonda"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-contact: ["researchcomputing@boisestate.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["researchcomputing@boisestate.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://etherpad.boisestate.edu/p/rcdays-2018   # optional: URL for the workshop Etherpad if there is one
 eventbrite: "43667457541" # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -41,7 +41,7 @@ eventbrite: "43667457541" # optional: alphanumeric key for Eventbrite registrati
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
   width="100%"
-  height="248px"
+  height="280px"
   scrolling="auto">
 </iframe>
 {% endif %}
@@ -667,6 +667,26 @@ eventbrite: "43667457541" # optional: alphanumeric key for Eventbrite registrati
     </div>
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
+
+<div id="matlab"> <!-- Start of 'MATLAB' section. -->
+  <h3>MATLAB</h3>
+
+  <p>
+    <a href="https://www.mathworks.com/products/matlab.html">MATLAB</a> 
+    is available to Boise State students, researchers, faculty and staff for 
+    installation on personal and University-owned computers.  See the 
+    <a href="https://oit.boisestate.edu/software/mathematical-and-statistical-software/">Help Desk</a>
+    site for more information.  If you are not affiliated with BSU, you 
+    expected to have MATLAB installed ahead of time.
+    
+  <p>
+    A few notes:
+  <ul>
+    <li>If you don’t have an account, create one using your Boise State University email address.</li>
+    <li>MATLAB can be accessed <a href="https://www.mathworks.com/products/matlab-online.html">online.</a></li>
+  </ul>
+  </p>
+</div> <!-- End of 'MATLAB' section. -->
 
 <!--
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}

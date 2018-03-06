@@ -16,7 +16,7 @@ email: ["researchcomputing@boisestate.edu"]    # boxed, comma-separated list of 
 collaborative_notes: https://etherpad.boisestate.edu/p/rcdays-2018   # optional: URL for the workshop Etherpad if there is one
 eventbrite: "43667457541" # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
-
+<-- Comment to force gh pages build -->
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}

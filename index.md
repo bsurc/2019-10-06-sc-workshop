@@ -686,7 +686,6 @@ eventbrite: "43667457541" # optional: alphanumeric key for Eventbrite registrati
     <li>MATLAB can be accessed <a href="https://www.mathworks.com/products/matlab-online.html">online.</a></li>
   </ul>
   </p>
-</div> <!-- End of 'MATLAB' section. -->
 
 <!--
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}

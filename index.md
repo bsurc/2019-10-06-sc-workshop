@@ -299,6 +299,7 @@ eventbrite: "43667457541" # optional: alphanumeric key for Eventbrite registrati
    <li><a href="https://jupyter.boisestate.edu">jupyter.boisestate.edu</a></li>
    <li><a href="https://datascience.boisestate.edu">datascience.boisestate.edu</a></li>
   </ul>
+  This may be a better option for windows users.  Mac and Linux users usually have `git` and `bash` installed.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors

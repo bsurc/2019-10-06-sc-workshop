@@ -224,6 +224,7 @@ eventbrite: "43667457541" # optional: alphanumeric key for Eventbrite registrati
   e.g., '2015-06-10-esu'.
 {% endcomment %}
 {% if page.collaborative_notes %}
+<a id="etherpad"></a>
 <p id="collaborative_notes">
   We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
@@ -287,6 +288,7 @@ eventbrite: "43667457541" # optional: alphanumeric key for Eventbrite registrati
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
 </p>
+<a id="jupyter"></a>
 <p>
  <b>
   Boise State has dedicated Jupyter Notebook servers for use in Software

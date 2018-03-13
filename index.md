@@ -301,7 +301,7 @@ eventbrite: "43667457541" # optional: alphanumeric key for Eventbrite registrati
   </ul>
   This may be a better option for windows users.  Mac and Linux users usually have git and bash installed.
   
-  Another option for Windows 10 users is to install <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux</a>
+  Another option for Windows 10 users is to install <a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10">Windows Subsystem for Linux</a>.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors

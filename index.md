@@ -16,6 +16,10 @@ email: ["researchcomputing@boisestate.edu"]    # boxed, comma-separated list of 
 collaborative_notes: https://etherpad.boisestate.edu/p/rcdays-2018   # optional: URL for the workshop Etherpad if there is one
 eventbrite: "43667457541" # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
+<!-- Redirect to the next workshop -->
+<meta http-equiv="refresh" content="0; url=https://bsurc.github.io/2018-03-15-rc-days/">
+<link rel="canonical" href="https://bsurc.github.io/2018-09-21-sc/" />
+
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 

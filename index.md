@@ -218,6 +218,10 @@ eventbrite: "55468730466" # optional: alphanumeric key for Eventbrite registrati
   {% include lc/schedule.html %}
 {% endif %}
 
+<p>
+*AWS workshops will be running concurrently to Software Carpentry. If you sign up for Software Carpentry but would still like to meet with AWS, please email researchcomputing@boisestate.edu or indicate so on your registration form.
+</p>
+
 {% comment %}
   Collaborative Notes
 

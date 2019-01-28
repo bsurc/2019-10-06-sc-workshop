@@ -15,6 +15,7 @@ helper: ["Olga Goulko", "Tyler Bevan", "Matt Clark", "Kendra Kaiser"]     # boxe
 email: ["researchcomputing@boisestate.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://etherpad.boisestate.edu/p/rcdays-2019   # optional: URL for the workshop Etherpad if there is one
 eventbrite: "55468730466" # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+
 ---
 <!-- Redirect to the next workshop
 <meta http-equiv="refresh" content="0; url=https://bsurc.github.io/2018-03-15-rc-days/">

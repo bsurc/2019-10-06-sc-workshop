@@ -681,7 +681,7 @@ collaborative_notes: https://etherpad.boisestate.edu/p/sc-2019-05-29   # optiona
 -->
 
 <!--
-<div id="matlab"> <!-- Start of 'MATLAB' section. -->
+<div id="matlab"> {% comment %} Start of 'MATLAB' section. {% endcomment %}
   <h3>MATLAB</h3>
 
   <p>

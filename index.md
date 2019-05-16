@@ -6,15 +6,15 @@ address: "Hatch Ballroom, Student Union Building, Boise State University, 1910 U
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "43.604172,-116.209994"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "February 11-12, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "7:30 am - 4:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-02-11      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-02-12        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Eric Jankowski", "Vicken Hillis", "Matt Clark", "Eric Hayden", "Brian Jackson", "Mike Henry", "Mathew Jones",  "Olga Goulko", "Kendra Kaiser"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Tyler Bevan", "Kyle Shannon"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+humandate: "May 29, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "8:30 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2019-05-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-05-29        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Eric Jankowski", "Mike Henry"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Kyle Shannon"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["researchcomputing@boisestate.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://etherpad.boisestate.edu/p/rcdays-2019   # optional: URL for the workshop Etherpad if there is one
-eventbrite: "55468730466" # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+collaborative_notes: https://etherpad.boisestate.edu/p/sc-2019-05-29   # optional: URL for the workshop Etherpad if there is one
+#eventbrite: "55468730466" # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 
 ---
 <!-- Redirect to the next workshop
@@ -218,18 +218,6 @@ eventbrite: "55468730466" # optional: alphanumeric key for Eventbrite registrati
 {% elsif page.carpentry == "lc" %}
   {% include lc/schedule.html %}
 {% endif %}
-
-<p>
-*AWS workshops will be running concurrently to Software Carpentry. If you sign up for Software Carpentry but would still like to meet with AWS, please email <a href="mailto:researchcomputing@boisestate.edu">researchcomputing@boisestate.edu</a> or indicate so on your registration form.
-</p>
-
-<p>
-**Day 2 Software Carpentry tracks run concurrently. When you register, please select one of the programming tracks for Day 2.
-</p>
-
-<p>
-***AWS workshops will be running concurrently to Software Carpentry. If you sign up for Software Carpentry but would still like to meet with AWS, please email researchcomputing@boisestate.edu or indicate so on your registration form.
-</p>
 
 {% comment %}
   Collaborative Notes
@@ -639,7 +627,7 @@ eventbrite: "55468730466" # optional: alphanumeric key for Eventbrite registrati
   </p>
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
-
+<!--
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
 
@@ -690,7 +678,9 @@ eventbrite: "55468730466" # optional: alphanumeric key for Eventbrite registrati
     </div>
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
+-->
 
+<!--
 <div id="matlab"> <!-- Start of 'MATLAB' section. -->
   <h3>MATLAB</h3>
 
@@ -709,6 +699,7 @@ eventbrite: "55468730466" # optional: alphanumeric key for Eventbrite registrati
     <li>MATLAB can be accessed <a href="https://www.mathworks.com/products/matlab-online.html">online.</a></li>
   </ul>
   </p>
+-->
 
 <!--
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
@@ -743,7 +734,7 @@ eventbrite: "55468730466" # optional: alphanumeric key for Eventbrite registrati
       <p>
         SQLite comes pre-installed on macOS.
       </p>
-    </div>
+    </div>Accounts and computing resources at Boise Stat
     <div class="col-md-4">
       <h4 id="sql-linux">Linux</h4>
       <p>
@@ -786,7 +777,7 @@ eventbrite: "55468730466" # optional: alphanumeric key for Eventbrite registrati
       <h4 id="openrefine-mac">Mac</h4>
       <p>Check that you have either the Firefox or the Chrome browser installed and set as your default browser. <strong>OpenRefine runs in your default browser.</strong> It may not run correctly in Safari.</p>
       <p>Download software from <a href="http://openrefine.org/">http://openrefine.org/</a>.</p>
-      <p>Create a new directory called OpenRefine.</p>
+      <p>Create a new directory called OpenAccounts and computing resources at Boise StatRefine.</p>
       <p>Unzip the downloaded file into the OpenRefine directory by double-clicking it.</p>
       <p>Go to your newly created OpenRefine directory.</p>
       <p>Launch OpenRefine by dragging the icon into the Applications folder.</p>

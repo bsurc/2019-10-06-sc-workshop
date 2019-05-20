@@ -14,7 +14,7 @@ instructor: ["Eric Jankowski", "Mike Henry"] # boxed, comma-separated list of in
 helper: ["Kyle Shannon"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["researchcomputing@boisestate.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://etherpad.boisestate.edu/p/sc-2019-05-29   # optional: URL for the workshop Etherpad if there is one
-#eventbrite: "55468730466" # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: "62156116618" # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 
 ---
 <!-- Redirect to the next workshop

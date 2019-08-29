@@ -53,6 +53,8 @@ collaborative_notes: https://pad.carpentries.org/bsu-may2019  # optional: URL fo
 </iframe>
 {% endif %}
 
+<h3><em>Registration Closed</em></h3>
+
 <h2 id="general">General Information</h2>
 
 {% comment %}

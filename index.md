@@ -1,19 +1,19 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "dc" or "swc")
-venue: "Boise State University"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Bishop Barnwell Room, Boise State University, 1910 University Dr., Boise, ID 83725"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "Red Lion Downtowner"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "1800 Fairview Avenue, Boise, ID 83702"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "43.604172,-116.209994"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "May 29, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "8:30 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-05-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-05-29        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Eric Jankowski", "Mike Henry"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Matt Clark", "Kyle Shannon"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+latlng: "43.6202304,-116.2152106"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+humandate: "October 06, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "9:00 am - 4:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2019-10-06      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-10-06        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Mike Henry"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Kyle Shannon"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["researchcomputing@boisestate.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-#collaborative_notes: https://etherpad.boisestate.edu/p/sc-2019-05-29   # optional: URL for the workshop Etherpad if there is one
+#collaborative_notes: https://etherpad.boisestate.edu/p/sc-2019-10-06   # optional: URL for the workshop Etherpad if there is one
 collaborative_notes: https://pad.carpentries.org/bsu-may2019  # optional: URL for the workshop Etherpad if there is one
 eventbrite: "62156116618" # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 
